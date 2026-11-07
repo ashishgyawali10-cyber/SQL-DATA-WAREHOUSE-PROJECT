@@ -7,6 +7,9 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 
 --
+## Project Overview
+-- This project involves :
+  - Data Architecture : Designing a modern Data Warehouse using Medalion A
 ## PROJECT REQUIREMENTS
 
 ### BUILDING THE DATA WAREHOUSE (DATA ENGINEERING)
