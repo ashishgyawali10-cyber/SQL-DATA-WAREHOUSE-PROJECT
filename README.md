@@ -9,7 +9,11 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 --
 ## Project Overview
 -- This project involves :
-  - Data Architecture : Designing a modern Data Warehouse using Medalion A
+  - Data Architecture : Designing a modern Data Warehouse using Medalion Architecture Bronze, Silver, and Gold layers.
+  - ETL Pipelines : Extracting, Transforming, and loading data from source systems into the warehouse.
+  - Data Modeling : Developing fact and dimension tables optimized for analytical queries.
+  - Analytics and Reporting : Creating SQL-based reports and dashboards for actionable insights.
+    
 ## PROJECT REQUIREMENTS
 
 ### BUILDING THE DATA WAREHOUSE (DATA ENGINEERING)
