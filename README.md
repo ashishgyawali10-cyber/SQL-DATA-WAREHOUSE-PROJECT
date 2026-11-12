@@ -13,6 +13,8 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
   - ETL Pipelines : Extracting, Transforming, and loading data from source systems into the warehouse.
   - Data Modeling : Developing fact and dimension tables optimized for analytical queries.
   - Analytics and Reporting : Creating SQL-based reports and dashboards for actionable insights.
+
+    
     
 ## PROJECT REQUIREMENTS
 
